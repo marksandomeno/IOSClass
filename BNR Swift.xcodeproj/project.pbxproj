@@ -1,0 +1,306 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		695B8C751C4185B4004DA3A4 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695B8C741C4185B4004DA3A4 /* main.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		695B8C6F1C4185B4004DA3A4 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		695B584F1C41F75E000C15CA /* 1. Getting Started.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "1. Getting Started.playground"; path = "BNR Swift/1. Getting Started.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		695B58501C41F75E000C15CA /* 2. Types, Constants, Variables.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "2. Types, Constants, Variables.playground"; path = "BNR Swift/2. Types, Constants, Variables.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		695B58511C41F75E000C15CA /* 3. Numbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "3. Numbers.playground"; path = "BNR Swift/3. Numbers.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		695B58521C41F75E000C15CA /* 4. Conditionals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "4. Conditionals.playground"; path = "BNR Swift/4. Conditionals.playground"; sourceTree = "<group>"; };
+		695B58531C41F75E000C15CA /* 5. Switch.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "5. Switch.playground"; path = "BNR Swift/5. Switch.playground"; sourceTree = "<group>"; };
+		695B58541C41F75E000C15CA /* 6. Loops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "6. Loops.playground"; path = "BNR Swift/6. Loops.playground"; sourceTree = "<group>"; };
+		695B58551C41F75E000C15CA /* 7. Strings.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "7. Strings.playground"; path = "BNR Swift/7. Strings.playground"; sourceTree = "<group>"; };
+		695B58561C41F75F000C15CA /* 8. Optionals.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "8. Optionals.playground"; path = "BNR Swift/8. Optionals.playground"; sourceTree = "<group>"; };
+		695B58571C41F75F000C15CA /* 9. Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "9. Arrays.playground"; path = "BNR Swift/9. Arrays.playground"; sourceTree = "<group>"; };
+		695B58581C41F75F000C15CA /* 10. Dictionaries.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "10. Dictionaries.playground"; path = "BNR Swift/10. Dictionaries.playground"; sourceTree = "<group>"; };
+		695B58591C41F75F000C15CA /* 11. Sets.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "11. Sets.playground"; path = "BNR Swift/11. Sets.playground"; sourceTree = "<group>"; };
+		695B585A1C41F75F000C15CA /* 12. Functions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "12. Functions.playground"; path = "BNR Swift/12. Functions.playground"; sourceTree = "<group>"; };
+		695B585B1C41F75F000C15CA /* 13. Closures.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "13. Closures.playground"; path = "BNR Swift/13. Closures.playground"; sourceTree = "<group>"; };
+		695B585C1C41F75F000C15CA /* 14. Enumerations.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "14. Enumerations.playground"; path = "BNR Swift/14. Enumerations.playground"; sourceTree = "<group>"; };
+		695B585D1C41F75F000C15CA /* 15. Structs & Classes.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "15. Structs & Classes.playground"; path = "BNR Swift/15. Structs & Classes.playground"; sourceTree = "<group>"; };
+		695B585E1C41F75F000C15CA /* 16. Properties.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "16. Properties.playground"; path = "BNR Swift/16. Properties.playground"; sourceTree = "<group>"; };
+		695B585F1C41F75F000C15CA /* 17. Initialization.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "17. Initialization.playground"; path = "BNR Swift/17. Initialization.playground"; sourceTree = "<group>"; };
+		695B58601C41F75F000C15CA /* 18. Value vs. Ref.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "18. Value vs. Ref.playground"; path = "BNR Swift/18. Value vs. Ref.playground"; sourceTree = "<group>"; };
+		695B58611C41F75F000C15CA /* 19. Protocols.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "19. Protocols.playground"; path = "BNR Swift/19. Protocols.playground"; sourceTree = "<group>"; };
+		695B58621C41F75F000C15CA /* 20. Error Handling.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "20. Error Handling.playground"; path = "BNR Swift/20. Error Handling.playground"; sourceTree = "<group>"; };
+		695B58631C41F75F000C15CA /* 21. Extensions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "21. Extensions.playground"; path = "BNR Swift/21. Extensions.playground"; sourceTree = "<group>"; };
+		695B58641C41F75F000C15CA /* 22. Generics.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "22. Generics.playground"; path = "BNR Swift/22. Generics.playground"; sourceTree = "<group>"; };
+		695B58651C41F75F000C15CA /* 23. Protocol Extensions.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "23. Protocol Extensions.playground"; path = "BNR Swift/23. Protocol Extensions.playground"; sourceTree = "<group>"; };
+		695B58661C41F75F000C15CA /* 24. Memory & ARC.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "24. Memory & ARC.playground"; path = "BNR Swift/24. Memory & ARC.playground"; sourceTree = "<group>"; };
+		695B58671C41F75F000C15CA /* 25. Equitable & Comparable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "25. Equitable & Comparable.playground"; path = "BNR Swift/25. Equitable & Comparable.playground"; sourceTree = "<group>"; };
+		695B8C711C4185B4004DA3A4 /* BNR Swift */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "BNR Swift"; sourceTree = BUILT_PRODUCTS_DIR; };
+		695B8C741C4185B4004DA3A4 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		695B8C6E1C4185B4004DA3A4 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		695B58681C41F7FE000C15CA /* Playgrounds */ = {
+			isa = PBXGroup;
+			children = (
+				695B584F1C41F75E000C15CA /* 1. Getting Started.playground */,
+				695B58501C41F75E000C15CA /* 2. Types, Constants, Variables.playground */,
+				695B58511C41F75E000C15CA /* 3. Numbers.playground */,
+				695B58521C41F75E000C15CA /* 4. Conditionals.playground */,
+				695B58531C41F75E000C15CA /* 5. Switch.playground */,
+				695B58541C41F75E000C15CA /* 6. Loops.playground */,
+				695B58551C41F75E000C15CA /* 7. Strings.playground */,
+				695B58561C41F75F000C15CA /* 8. Optionals.playground */,
+				695B58571C41F75F000C15CA /* 9. Arrays.playground */,
+				695B58581C41F75F000C15CA /* 10. Dictionaries.playground */,
+				695B58591C41F75F000C15CA /* 11. Sets.playground */,
+				695B585A1C41F75F000C15CA /* 12. Functions.playground */,
+				695B585B1C41F75F000C15CA /* 13. Closures.playground */,
+				695B585C1C41F75F000C15CA /* 14. Enumerations.playground */,
+				695B585D1C41F75F000C15CA /* 15. Structs & Classes.playground */,
+				695B585E1C41F75F000C15CA /* 16. Properties.playground */,
+				695B585F1C41F75F000C15CA /* 17. Initialization.playground */,
+				695B58601C41F75F000C15CA /* 18. Value vs. Ref.playground */,
+				695B58611C41F75F000C15CA /* 19. Protocols.playground */,
+				695B58621C41F75F000C15CA /* 20. Error Handling.playground */,
+				695B58631C41F75F000C15CA /* 21. Extensions.playground */,
+				695B58641C41F75F000C15CA /* 22. Generics.playground */,
+				695B58651C41F75F000C15CA /* 23. Protocol Extensions.playground */,
+				695B58661C41F75F000C15CA /* 24. Memory & ARC.playground */,
+				695B58671C41F75F000C15CA /* 25. Equitable & Comparable.playground */,
+			);
+			name = Playgrounds;
+			path = ..;
+			sourceTree = "<group>";
+		};
+		695B8C681C4185B4004DA3A4 = {
+			isa = PBXGroup;
+			children = (
+				695B8C731C4185B4004DA3A4 /* BNR Swift */,
+				695B8C721C4185B4004DA3A4 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		695B8C721C4185B4004DA3A4 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				695B8C711C4185B4004DA3A4 /* BNR Swift */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		695B8C731C4185B4004DA3A4 /* BNR Swift */ = {
+			isa = PBXGroup;
+			children = (
+				695B58681C41F7FE000C15CA /* Playgrounds */,
+				695B8C741C4185B4004DA3A4 /* main.swift */,
+			);
+			path = "BNR Swift";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		695B8C701C4185B4004DA3A4 /* BNR Swift */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 695B8C781C4185B4004DA3A4 /* Build configuration list for PBXNativeTarget "BNR Swift" */;
+			buildPhases = (
+				695B8C6D1C4185B4004DA3A4 /* Sources */,
+				695B8C6E1C4185B4004DA3A4 /* Frameworks */,
+				695B8C6F1C4185B4004DA3A4 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "BNR Swift";
+			productName = "BNR Swift";
+			productReference = 695B8C711C4185B4004DA3A4 /* BNR Swift */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		695B8C691C4185B4004DA3A4 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0710;
+				LastUpgradeCheck = 0710;
+				ORGANIZATIONNAME = shp;
+				TargetAttributes = {
+					695B8C701C4185B4004DA3A4 = {
+						CreatedOnToolsVersion = 7.1.1;
+					};
+				};
+			};
+			buildConfigurationList = 695B8C6C1C4185B4004DA3A4 /* Build configuration list for PBXProject "BNR Swift" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 695B8C681C4185B4004DA3A4;
+			productRefGroup = 695B8C721C4185B4004DA3A4 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				695B8C701C4185B4004DA3A4 /* BNR Swift */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		695B8C6D1C4185B4004DA3A4 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				695B8C751C4185B4004DA3A4 /* main.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		695B8C761C4185B4004DA3A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		695B8C771C4185B4004DA3A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGN_IDENTITY = "-";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.11;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		695B8C791C4185B4004DA3A4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		695B8C7A1C4185B4004DA3A4 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		695B8C6C1C4185B4004DA3A4 /* Build configuration list for PBXProject "BNR Swift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				695B8C761C4185B4004DA3A4 /* Debug */,
+				695B8C771C4185B4004DA3A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		695B8C781C4185B4004DA3A4 /* Build configuration list for PBXNativeTarget "BNR Swift" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				695B8C791C4185B4004DA3A4 /* Debug */,
+				695B8C7A1C4185B4004DA3A4 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 695B8C691C4185B4004DA3A4 /* Project object */;
+}
